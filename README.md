@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammad Asif
 
-<!--
-**devmasif/devmasif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at FAST Islamabad  
+💻 Strong in C++, OOP, Python, and Data Structures  
+🔭 Learning FastAPI, MongoDB, and Web Development  
+🧠 Solving LeetCode problems regularly  
+⚡ Interested in AI, Automation, and LLMs  
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Languages:** C++, Python  
+- **Web:** FastAPI (learning), HTML, CSS  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/muhamd-asif)  
+🔗 Explore my projects below!
