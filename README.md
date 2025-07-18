@@ -2,7 +2,7 @@
 
 🎓 BS Computer Science Student at FAST Islamabad  
 💻 Strong in C++, OOP, Python, and Data Structures  
-🔭 Learning FastAPI, MongoDB, and Web Development  
+🔭 FastAPI, MongoDB, and Web Development  
 🧠 Solving LeetCode problems regularly  
 ⚡ Interested in AI, Automation, and LLMs  
 
